@@ -1,2 +1,3 @@
 Hello!
 Text
+new text
